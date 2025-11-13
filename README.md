@@ -5,6 +5,5 @@ This is a game that I created with a friend for a computer science class. You pl
 All music was written by me in FL Studio. If you want to listen to any of the songs, you can find them in the links below:
 
 - An Isolated Journey Begins (Title Theme): https://youtu.be/64Ke8NLWC08 (Live Recording)
-- An Isolated Journey Begins (Title Theme): 
 - Misty Woods (Level Theme): 
-- Root of Corruption (Boss Theme): 
+- Root of Corruption (Boss Theme): https://youtu.be/_ZPrvI6xbhQ
