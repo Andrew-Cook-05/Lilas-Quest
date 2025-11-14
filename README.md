@@ -1,7 +1,7 @@
 # Lila's Quest
 This is a game that I created with a friend for a computer science class. You play as Lila, and are tasked with exploring a mysterious forest collecting several different hats along the way. 
 
-To play the game, download the zip file, extract it, and run 
+To play the game, download the zip file, extract it, and run LilasQuestWindows.exe
 
 ## Music
 All music was written by me in FL Studio. If you want to listen to any of the songs, you can find them in the links below:
